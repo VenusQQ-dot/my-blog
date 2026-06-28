@@ -2,8 +2,6 @@
 title: '我的第一篇文章'
 description: '這是我部落格的開始'
 pubDate: '2026-06-28'
-heroImage: '/blog-placeholder-1.jpg'
----
 
 ## 這是我的部落格
 
